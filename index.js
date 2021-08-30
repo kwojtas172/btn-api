@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
       'name': 'Kamil',
       'description': 'Jestem programistą z ponad rocznym doświadczeniem, szukam okazji do powiększenia swojego komercyjnego doświadczenia',
       'skills': ['JavaScript (ECMA6)', 'React.js', 'HTML5', 'SCSS/CSS (Sass)', 'Node.js (Express.js)', 'MongoDB'],
-      'e-mail': 'k.wojtas172@gmail.com',
+      'email': 'k.wojtas172@gmail.com',
       'linkedin': 'https://www.linkedin.com/in/kamil-wojtas/'
   })
 })
