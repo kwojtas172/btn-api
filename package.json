@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kwojtas172/btn-api#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1"
   }
 }
