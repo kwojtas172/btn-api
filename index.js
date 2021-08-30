@@ -11,7 +11,8 @@ app.get('/', (req, res) => {
       'description': 'Jestem programistą z ponad rocznym doświadczeniem, szukam okazji do powiększenia swojego komercyjnego doświadczenia',
       'skills': ['JavaScript (ECMA6)', 'React.js', 'HTML5', 'SCSS/CSS (Sass)', 'Node.js (Express.js)', 'MongoDB'],
       'email': 'k.wojtas172@gmail.com',
-      'linkedin': 'https://www.linkedin.com/in/kamil-wojtas/'
+      'linkedin': 'https://www.linkedin.com/in/kamil-wojtas/',
+      'repo': 'https://github.com/kwojtas172/button-devutnia'
   })
 })
 
